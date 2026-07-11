@@ -6,12 +6,12 @@ Real-time crypto whale intelligence MCP server — no API key required.
 
 ---
 
-## Tools (46 tools, no auth required)
+## Tools (47 tools, no auth required)
 
 - Whale signals across 14 blockchains (BTC, ETH, SOL, BSC, Base, ARB, Polygon, TON, SUI, Hyperliquid, TRX, SEI, INJ, APT)
 - Golden alerts with AI-powered confidence scoring
 - Fear & Greed index + 90-day daily history
-- Funding rates (Gate.io, MEXC, Kraken) + history
+- Funding rates (Gate.io, MEXC, Kraken, OKX, Binance Futures, Bybit) + history
 - Social sentiment for 100+ tokens
 - Arbitrage opportunities across exchanges
 - Stablecoin flows (DefiLlama) + history
