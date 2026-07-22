@@ -1,12 +1,11 @@
 # CryptoWhaleInsights MCP Server
 
-Real-time crypto whale intelligence MCP server — no API key required.
-
+Real-time crypto whale intelligence MCP server — 55 tools, no API key required.
 **Endpoint:** `https://cryptowhaleinsights.com/mcp`
 
 ---
 
-## Tools (54 tools, no auth required)
+## Tools (55 tools, no auth required)
 
 - Whale signals across 14 blockchains (BTC, ETH, SOL, BSC, Base, ARB, Polygon, TON, SUI, Hyperliquid, TRX, SEI, INJ, APT)
 - Golden alerts with AI-powered confidence scoring
