@@ -1,6 +1,5 @@
 {
-  "name": "whale-insights",
-  "description": "Real-time crypto whale intelligence MCP server with 55 tools across 14 blockchains. Free, no auth required.",
-  "version": "1.0.0",
-  "endpoint": "https://cryptowhaleinsights.com/mcp"
+  "maintainers": [
+    "cryptowhaleinsights-ux"
+  ]
 }
